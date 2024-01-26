@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<head>
+<style>
+h1{
+color:brown;}
+li{
+color:orange;}
+h2{
+color:green;}
+a{
+color:red;}
+
+</style>
+<nav>
+<h1>CSS MENU</h1>
+<h2>FRUITS</h2>
+</style>
+</head>
+<ul type="square">
+<li> <a href="https://en.wikipedia.org/wiki/Apple_Inc.">apple</li><br>
+<li> <a href="https://en.wikipedia.org/wiki/Apple_Inc.">orange</li><br>
+<li> <a href="https://en.wikipedia.org/wiki/Apple_Inc.">mango</li><br>
+<li> <a href="https://en.wikipedia.org/wiki/Apple_Inc.">banana</li><br>
+</ul>
+</nav>
+<p>more read about fruits <a href="https://en.wikipedia.org/wiki/Apple_Inc.">FRUITS</a></p>
+
+</html>
